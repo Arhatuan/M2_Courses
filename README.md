@@ -1,1 +1,3 @@
-# Cours_Reconnaissance_des_formes_avancee
+# M2_Courses
+
+Exercises for M2 courses
